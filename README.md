@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
+- drop enqniry - akashkr2929@gmail.com
 
 <!---
-krraghav/krraghav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MrAkashKum/MrAkashKum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
