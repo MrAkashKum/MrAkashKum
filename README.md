@@ -3,6 +3,9 @@
 - 🌱 I’m currently developing product ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Note -
+-   I have 6+ years exerience on multiple technologies like Java, SpringBoot, Microservices, JPA, MySQL, Angular and React.
+-   worked on multiple domains like Banking, Financial, Social Network, Telecomes, communication and SaaS domains 
 - drop enqniry - akashkr2929@gmail.com
 
 <!---
